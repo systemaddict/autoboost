@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "nodemon": "1.0.0",
-    "dompurify": "2.0.14"
+    "dompurify": "2.0.13"
   }
 }
